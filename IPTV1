@@ -1,1 +1,24 @@
+#EXTM3U
+#EXTINF:0,US: Bloomberg HD
+http://landiptv.live:8080/live/marco/polo/155485.m3u8
+#EXTINF:0,US: C-SPAN
+http://landiptv.live:8080/live/marco/polo/199131.m3u8
+#EXTINF:0,US: C-SPAN 2 HD
+http://landiptv.live:8080/live/marco/polo/74923.m3u8
+#EXTINF:0,US: EWTN
+http://landiptv.live:8080/live/marco/polo/199229.m3u8
+#EXTINF:0,US: FOX BUSINESS HD
+http://landiptv.live:8080/live/marco/polo/77094.m3u8
+#EXTINF:0,US: Fox News Channel
+http://landiptv.live:8080/live/marco/polo/156772.m3u8
+#EXTINF:0,US: GRIT TV HD
+http://landiptv.live:8080/live/marco/polo/76439.m3u8
+#EXTINF:0,US: HISTORY Channel 2 FHD
+http://landiptv.live:8080/live/marco/polo/77116.m3u8
+#EXTINF:0,US: HISTORY CHANNEL FHD
+http://landiptv.live:8080/live/marco/polo/92801.m3u8
+#EXTINF:0,US: INFOWARS
+http://landiptv.live:8080/live/marco/polo/176341.m3u8
+
+
 
